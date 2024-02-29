@@ -15,7 +15,7 @@
 
 ---
 
-# Terms of Service
+# Terms of Service 🙋‍♂️
 
 Welcome to our Discord bot. Please read these terms carefully before using the bot.
 
@@ -48,6 +48,11 @@ Last Updated: [2/29/2024]
 
 If you have any questions about these terms, please contact us at [fenixstudios555@gmail.com].
 
+---
+## 🥴 Support
+
+[![Discord](https://discordapp.com/api/guilds/1202294662430466068/widget.png?style=banner4)](https://discord.gg/5nvKMb8H6t)
+---
 This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
 
 © 2024 Fenix Studios
