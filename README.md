@@ -3,7 +3,7 @@
 
 <br>
 
-![My bot]([https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient-by-eartharoid.png](https://cdn.discordapp.com/attachments/1212033139208228884/1212825164685910107/image.png?ex=65f33e74&is=65e0c974&hm=c5c5c8a538879647d6c1e950995ac0b52185d04e33bdcb0ed580fb275b7e66b4&))
+![My bot](https://cdn.discordapp.com/attachments/1212033139208228884/1212825164685910107/image.png?ex=65f33e74&is=65e0c974&hm=c5c5c8a538879647d6c1e950995ac0b52185d04e33bdcb0ed580fb275b7e66b4&)
 
 **A free alternative to the premium and white-label plans of other ticket management bots.**
 
