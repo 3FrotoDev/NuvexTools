@@ -1,150 +1,54 @@
 <div align="center">
-[![Discord](https://img.shields.io/discord/451745464480432129?label=discord&amp;color=7289DA&amp;style=for-the-badge)](https://discord.gg/5nvKMb8H6t)
-
 <br>
 
 ![My bot](https://cdn.discordapp.com/attachments/1212033139208228884/1212825164685910107/image.png?ex=65f33e74&is=65e0c974&hm=c5c5c8a538879647d6c1e950995ac0b52185d04e33bdcb0ed580fb275b7e66b4&)
 
-**A free alternative to the premium and white-label plans of other ticket management bots.**
-
-<br>
-<a
-  href="https://www.producthunt.com/posts/discord-tickets?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-discord&#0045;tickets"
-  target="_blank">
-<img
-	src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=321112&theme=light"
-	alt="Discord&#0032;Tickets - A&#0032;free&#0032;ticketing&#0032;solution | Product Hunt"
-	style="width: 250px; height: 54px;"
-	width="250"
-	height="54"
-  />
-</a>
-
-<br>
+**The best bot specifically designed to protect your server in Discord .**
 
 ---
 
-[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/41ca8074-184e-4ad1-a44d-77750ee8bfb9.webp)](https://bisecthosting.com/discordtickets)
+[![BisectHosting](https://entrision.com/images/jpg/blog/heroku-banner-f7c1e60a.jpg)
 
-<a href="https://bisecthosting.com/discordtickets">Partnered with BisectHosting</a>
+<a href="https://www.heroku.com/">Hosted By Heroku</a>
 <br>
 <sub>for affordable bot hosting</sub>
 
 ---
 
-<br>
-</div>
+# Terms of Service
 
-## 📖 Contents
+Welcome to our Discord bot. Please read these terms carefully before using the bot.
 
-- [📖 Contents](#-contents)
-- [✨ Features](#-features)
-  - [Want to learn more?](#want-to-learn-more)
-- [⚡ Getting started](#-getting-started)
-- [🤑 Sponsors](#-sponsors)
-- [🎖️ Contributors](#️-contributors)
-  - [💻 Contributing](#-contributing)
-    - [🌎 Translating](#-translating)
-- [😕 Support](#-support)
-- [⭐ Star History](#-star-history)
-- [🥱 License](#-license)
+By using the bot, you agree to comply with the terms and conditions mentioned in this document. If you disagree with any part of these terms, please refrain from using the bot.
 
+## Personal Use
 
-## ✨ Features
+1. You must be 13 years of age or older to use this bot.
+2. The bot should only be used for purposes that comply with local and international laws.
 
-- 📖 [**Documentation**](https://discordtickets.app/getting-started/) - comprehensive documentation and guides to help you get started
-- ⚙️ **Simple settings** - configure your bot with the included and easy-to-use dashboard
-- 🎨 **Highly customisable** - tweak features, colours, messages, and more to your liking
-- 🛸 **Modern features** - including slash commands, buttons, select menus, and modals
-- 🤖 **Automation** - ease your staff team's workload with configurable automation
-  - 🏷️ [**Tags**](https://v4--discordtickets.netlify.app/features/#tags) - resolve members' problems without escalating to tickets
-  - 🎫 **Tickets** - close inactive tickets automatically
-- 📜 **Archiving** - store messages in the database and view transcripts later
-- ❓ **Context** - ask for a topic or up to 5 custom questions before creating a ticket, and see references to a message or previous ticket at a glance
-- 🗃️ **Organisation** - claim, release, move and transfer tickets between members and categories
-- 🌎 [**Internationalisation**](#-translating) - available in more than 10 languages
-- ⏱️ **Statistics** - analyse your staff members' performance
-- 🪓 **Battle-tested** - trusted by thousands of servers, with over [half a million tickets](https://stats.discordtickets.app/) created since 2019
-- 🐳 [**Docker**](https://discordtickets.app/self-hosting/installation/docker/) - reliable and quick deployment with Docker
+## Content
 
-[*...and more!*](https://discordtickets.app/features/)
+1. We are not responsible for any content created or shared through the bot.
+2. We reserve the right to remove or modify any content that violates these terms without prior notice.
 
-### Want to learn more?
+## Amendments and Updates
 
-**Visit [the website](https://discordtickets.app/) for more features, details, and screenshots**,
-or skip to the [full feature tour](https://discordtickets.app/features/).
+1. We reserve the right to change or update these terms at any time without prior notice.
+2. It is your responsibility to regularly review the terms to keep track of any changes.
 
-## ⚡ Getting started
+## Liability
 
-> *🙏 Please read the [documentation](https://discordtickets.app/self-hosting/installation/) before you start.*
+1. We are not liable for any direct or indirect damages arising from the use or inability to use the bot.
 
-There are 3 ways to get started with Discord Tickets:
+## User Agreement
 
-- ☁️ [Add the public bot](https://discordtickets.app/public/) - instant setup, but branded *(great for testing)*
-- 😴 [Get a managed bot](https://discordtickets.app/managed/) - your own bot, hosted by me *(easy and cheap)*
-- 🧑‍💻 [Install your own bot](https://discordtickets.app/self-hosting/) - host it yourself *(experience recommended)*
+By using the bot, you agree to these terms and conditions. If you do not agree to these terms, please refrain from using the bot.
 
-**[Read the documentation](https://discordtickets.app/getting-started/)** for more information.
+Last Updated: [2/29/2024]
 
-> This button is here because it looks nice, but I will cry if you click it before reading the [documentation](https://discordtickets.app/getting-started/). :)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/eB6TkX?referralCode=Z3aYd2)
-
-<!-- [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/discord-tickets/bot) -->
-
-## 🤑 Sponsors
-
-Discord Tickets is made possible by these awesome people and organisations:
-
-![Sponsors](https://cdn.jsdelivr.net/gh/eartharoid/sponsors/sponsorkit/sponsors-wide.svg)
-
-Please consider sponsoring the project if it adds value to your business/community.
-
-**[Sponsor on GitHub](https://github.com/discord-tickets/bot/?sponsor=1)**, or
-
-[![Donate at ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/eartharoid)
-
-> **Note**
->
-> Your logo will only appear here if you sponsor through GitHub Sponsors.
-> [Create an organisation](https://github.com/account/organizations/new?plan=free) if you want to use your business/community logo.
-
-## 🎖️ Contributors
-
-<!-- [![Contributors](https://contrib.rocks/image?repo=discord-tickets/bot)](https://github.com/discord-tickets/bot/graphs/contributors) -->
-
-Discord Tickets is made possible by all of the people listed in [CONTRIBUTORS.md](https://github.com/discord-tickets/bot/blob/main/CONTRIBUTORS.md).
-
-
-### 💻 Contributing
-
-If you want to help translate, suggest a feature, submit a bug report,
-or contribute in any other way, please read the [contributing guidelines](https://github.com/discord-tickets/.github/blob/main//CONTRIBUTING.md).
-
-> **Note**
-> You can add yourself to the list of contributors [here](https://github.com/discord-tickets/bot/issues/new/choose).
-
-#### 🌎 Translating
-
-[![Translation status](https://hosted.weblate.org/widgets/discord-tickets/-/open-graph.png)](https://hosted.weblate.org/engage/discord-tickets/)
-
-## 😕 Support
-
-[![Discord](https://discordapp.com/api/guilds/451745464480432129/widget.png?style=banner4)](https://lnk.earth/discord)
-
-## ⭐ Star History
-
-<details>
-  <summary>Show graph</summary>
-
-  [![Star History Chart](https://api.star-history.com/svg?repos=discord-tickets/bot&type=Date)](https://star-history.com/#discord-tickets/bot&Date)
-
-</details>
-
-## 🥱 License
-
-Discord Tickets by eartharoid™️ is licensed under the [GPLv3 license](https://github.com/discord-tickets/bot/blob/main/LICENSE).
+If you have any questions about these terms, please contact us at [fenixstudios555@gmail.com].
 
 This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
 
-© 2023 Isaac Saunders
+© 2024 Fenix Studios
+
