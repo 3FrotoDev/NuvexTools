@@ -1,15 +1,9 @@
 <div align="center">
-
-![bots](https://img.shields.io/badge/dynamic/json?color=5865F2&label=bots&query=clients.total&url=https%3A%2F%2Fstats.discordtickets.app%2Fapi%2Fv3%2Fcurrent&logo=discord&logoColor=white&style=for-the-badge)
-![tickets](https://img.shields.io/badge/dynamic/json?color=5865F2&label=tickets&query=tickets&url=https%3A%2F%2Fstats.discordtickets.app%2Fapi%2Fv3%2Fcurrent&logo=discord&logoColor=white&style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/discord-tickets/bot?style=for-the-badge)](https://github.com/discord-tickets/bot/stargazers)
-[![Codacy](https://img.shields.io/codacy/grade/b974eb5f984c40868e07d82c968bd02d?logo=codacy&amp;style=for-the-badge)](https://www.codacy.com/gh/discord-tickets/bot/dashboard)
-[![All Contributors](https://img.shields.io/github/all-contributors/discord-tickets/bot?color=ee8449&style=for-the-badge)](https://github.com/discord-tickets/bot/blob/main/CONTRIBUTORS.md)
-[![Discord](https://img.shields.io/discord/451745464480432129?label=discord&amp;color=7289DA&amp;style=for-the-badge)](https://lnk.earth/discord)
+[![Discord](https://img.shields.io/discord/451745464480432129?label=discord&amp;color=7289DA&amp;style=for-the-badge)](https://discord.gg/5nvKMb8H6t)
 
 <br>
 
-![Discord Tickets](https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient-by-eartharoid.png)
+![My bot]([https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient-by-eartharoid.png](https://cdn.discordapp.com/attachments/1212033139208228884/1212825164685910107/image.png?ex=65f33e74&is=65e0c974&hm=c5c5c8a538879647d6c1e950995ac0b52185d04e33bdcb0ed580fb275b7e66b4&))
 
 **A free alternative to the premium and white-label plans of other ticket management bots.**
 
