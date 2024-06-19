@@ -46,7 +46,7 @@ By using the bot, you agree to these terms and conditions. If you do not agree t
 
 Last Updated: [2/29/2024]
 
-If you have any questions about these terms, please contact us at [fenixstudios555@gmail.com].
+If you have any questions about these terms, please contact us at [nuvexstudios555@gmail.com].
 
 ---
 ## 🥴 Support
@@ -55,5 +55,5 @@ If you have any questions about these terms, please contact us at [fenixstudios5
 ---
 This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
 
-© 2024 Fenix Studios
+© 2024 Nuvex Studios
 
